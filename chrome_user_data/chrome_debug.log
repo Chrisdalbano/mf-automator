@@ -1,0 +1,7 @@
+[18744:2828:0222/145337.994:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 122.0.6261.58 (not a warning)
+[18744:2828:0222/145338.048:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[18744:2828:0222/145338.048:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[18744:2828:0222/145340.718:INFO:CONSOLE(12)] "This is a test that the Custom Script has been applied.", source: https://cdn.mouseflow.com/projects/571151ed-8cc7-4752-8fa5-e316d278c61f.js (12)
+[18744:2828:0222/145345.822:INFO:CONSOLE(1)] "goToBottom called", source: https://chrisdalbano.com/js/app.2f07c33a.js (1)
+[18744:2828:0222/145345.822:INFO:CONSOLE(1)] "sectionOffsetTop: 816", source: https://chrisdalbano.com/js/app.2f07c33a.js (1)
+[18744:2828:0222/145351.025:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
